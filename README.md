@@ -40,7 +40,7 @@ My goal is to build and contribute to projects that enhance digital security and
 - **Location:** Jacksonville, FL
 
 ## GitHub Stats
-![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillermo-ramos&show_icons=true&theme=radical)
+![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkArtKnight&show_icons=true&theme=radical)
 
 ## Pinned Repositories - Adding as we go!!
 - [Cybersecurity Tools](https://github.com/DarkArtKnight/cybersecurity-tools-by-geo)
