@@ -12,6 +12,7 @@ My goal is to build and contribute to projects that enhance digital security and
 - 🔧 **Learning:** Python, Bash, Zeek, Wazuh, AI Automation
 
 ## 🚀 My Projects - Still to come!!! Lots of Studying First.
+- **🕹️ Currently:** Developing a game with a group of peers. None of us have any experience but loving the learning curve!
 - **🛡️ Malware Analysis Lab:** A setup for analyzing and understanding malware behavior.
 - **🔒 Vulnerability Remediation:** Tools and techniques for identifying and fixing vulnerabilities.
 - **📡 Zeek Network Monitoring:** Implementing Zeek for real-time network traffic analysis.
