@@ -6,7 +6,7 @@ I’m a passionate professional with a focus on cybersecurity and customer servi
 ## 🎯 Goal
 My goal is to build and contribute to projects that enhance digital security and streamline IT processes. Building robust portfolio will showcases my expertise in IT, cybersecurity, and software development, while continuously improving my skills and contributing to impactful projects.
 
-- 🎓 **Studying:** Cybersecurity at Miami University
+- 🎓 **Studying:** Cybersecurity at Miami University + QA at Triple Ten
 - 🌟 **Interests:** Network Security, Video Games, AI, Pen Testing
 - 💼 **Career Goals:** Become a top-tier IT specialist in cybersecurity and technical support, and complete a Bug Bounty!
 - 🔧 **Learning:** Python, Bash, Zeek, Wazuh, AI Automation
