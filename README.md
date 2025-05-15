@@ -1,4 +1,4 @@
-# Hi, I'm Guillermo Ramos 👋 | Aspiring IT Professional & Cybersecurity Enthusiast
+# Hi, I'm Geo Ramos 👋 | Aspiring IT Professional & Cybersecurity Enthusiast
 
 ## 👋 About Me
 I’m a passionate professional with a focus on cybersecurity and customer service. Currently, I'm honing my skills in malware analysis, vulnerability remediation, and security operations.
@@ -38,7 +38,6 @@ My goal is to build and contribute to projects that enhance digital security and
 ## 📫 Get in Touch
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/georam/)
 - **Email:** HireG.Ramos@gmail.com
-- **Location:** Jacksonville, FL
 
 ## GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkArtKnight&show_icons=true&theme=radical)
