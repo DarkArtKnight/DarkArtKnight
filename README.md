@@ -11,7 +11,7 @@ My goal is to build and contribute to projects that enhance digital security and
 - 💼 **Career Goals:** Secure a role in QA Engineering professionally and complete a Bug Bounty personally!
 - 🔧 **Learning:** Python, Bash, Zeek, Wazuh, AI Automation, SQL, Java, Kotlin, Postman, Selenium, CSS
 
-## 🚀 My Projects - Still to come!!! Lots of Studying First.
+## 🚀 My Projects
 
 🛒 **Urban Grocer Web App:**
 
@@ -36,7 +36,7 @@ Skills: Android Studio, Mobile Emulator, Mobile Testing, Python Automation
 - Used Python for repetitive tasks like placing orders in multiple instances using validated information.
 
 
-## 🚀 My Projects to come -
+## 🚀 Future Projects - Still to come!!! Lots of Studying First.
 - **🛡️ Malware Analysis Lab:** A setup for analyzing and understanding malware behavior.
 - **🔒 Vulnerability Remediation:** Tools and techniques for identifying and fixing vulnerabilities.
 - **📡 Zeek Network Monitoring:** Implementing Zeek for real-time network traffic analysis.
