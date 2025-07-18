@@ -13,20 +13,23 @@ My goal is to build and contribute to projects that enhance digital security and
 
 ## 🚀 My Projects - Still to come!!! Lots of Studying First.
 
-- 🛒 **Urban Grocer Web App:**
+🛒 **Urban Grocer Web App:**
+
 Skills: API Testing, Debugging, JSON, Postman, Node.js, JavaScript, GitHub 
 - Tested the API of Urban Grocers app and created a valid API bug report 
 - Designed tests for APIs using test design techniques "boundary values" and "equivalence classes" Sent JSON and XML requests to API using Postman 
 - Composed a SOAP request according to the API documentation 
 - Developed and executed tests for HTTP requests using Node.js and JavaScript 
 
-- 🧭 **Urban Routes Web App:**
+🧭 **Urban Routes Web App:**
+
 Skills: Test Planning and Design, Debugging, Figma, Postman 
 - Tested the frontend of the web app and issued bug reports 
 - Designed positive and negative tests and found defects in common interface elements Checked layout adaptability without real devices 
 - Intercepted and spoofed requests or responses in Postman manually and automatically
  
-- 🍝 **Urban Lunch Mobile App:**
+🍝 **Urban Lunch Mobile App:**
+
 Skills: Android Studio, Mobile Emulator, Mobile Testing, Python Automation
 - Developed & implemented a comprehensive mobile testing strategy utilizing Android Studio and device emulators 
 - Identified and resolved critical defects by collecting and analyzing logs from mobile emulators 
