@@ -65,7 +65,3 @@ Skills: Android Studio, Mobile Emulator, Mobile Testing, Python Automation
 ## GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkArtKnight&show_icons=true&theme=radical)
 
-## Pinned Repositories - Adding as we go!!
-- [Cybersecurity Tools](https://github.com/DarkArtKnight/cybersecurity-tools-by-geo)
-- 
-- 
